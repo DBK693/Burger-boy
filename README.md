@@ -1,2 +1,0 @@
-# Burger-boy
-Platformer
